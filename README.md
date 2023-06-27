@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mayank Handa</h1>
-<h3 align="center">I am passionate about Machine Learning, Mathematics, Finance and much more cool stuff!!</h3>
+<h3 align="center">I am passionate about Data Analytics, DSA , Finance and much more cool stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mh13cs&label=Profile%20views&color=0e75b6&style=flat" alt="mh13cs" /> </p>
 
-- 🔭 I’m currently working on **Indexer**
+- 🔭 I’m currently working on **Data Analytics and AWS**
 
-- 🌱 I’m currently learning **Machine Learning, AWS, Quantitative Finance**
+- 🌱 I’m currently learning **Data Analytics, AWS, Quantitative Finance**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
